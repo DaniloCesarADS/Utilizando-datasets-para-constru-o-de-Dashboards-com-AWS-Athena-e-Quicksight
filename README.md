@@ -1,3 +1,9 @@
+# Exploração de dados com serviços de big data da AWS
+
+
+
+
+
 # Realizando consultas em Banco de dados SQL e visualização de Dashboards com Amazon Athena e Quicksight
 
 Projeto e implementação de banco de dados em ambiente Cloud utilizando o serviço Amazon Athena, com visualização de dados e dashboards por meio do serviço Amazon Quicksight.
